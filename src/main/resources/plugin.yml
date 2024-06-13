@@ -1,0 +1,16 @@
+name: minebasec
+main: fun.xffc.Main
+version: 1.0
+api-version: 1.20
+author: xffc
+commands:
+  join:
+    permission: fun.xffc.join
+    aliases:
+      - ощшт
+  spawn:
+    permission: fun.xffc.spawn
+    aliases:
+      - s
+      - ы
+      - ызфцт
